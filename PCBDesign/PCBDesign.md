@@ -21,3 +21,13 @@
   - SOJ	: Small-outline J-leaded package
 - Ball grid array
   - FBGA : Fine-pitch ball-grid array 
+## Package dimensions
+- C : Clearance between package body and PCB.
+- H : Height of package from pin tip to top of package.
+- T : Thickness of pin.
+- L : Length of package body only.
+- LW : Pin width.
+- LL : Pin length from package to pin tip.
+- P : Pin pitch (distance between conductors to the PCB).
+- WB : Width of the package body only.
+- WL : Length from pin tip to pin tip on the opposite side.
