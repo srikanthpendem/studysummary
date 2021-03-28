@@ -17,4 +17,7 @@
   - TQFP : Thin quad flat-pack
   - TQFN : Thin quad flat, no-lead
 - Small outline packages
+  - SOIC : Small-outline integrated circuit
+  - SOJ	: Small-outline J-leaded package
 - Ball grid array
+  - FBGA : Fine-pitch ball-grid array 
