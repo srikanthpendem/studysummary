@@ -1,4 +1,20 @@
-# Soldering
+## Soldering
 - **Through-hole Mount Technology**: Electronic components are drilled on the PCB.
 - **Surface Mount Technology**: Electronic components are mounted on the top of the PCB.
 - **Embedded Mount Technology**: Electronic components are buried inside layers of PCB.
+## IC Packaging
+- Through-hole
+  -	Single in-line package 
+  -	Dual in-line package 
+- Surface mount
+  - Land grid array
+- Chip carrier
+  - Plastic-leaded chip carrier
+- Pin grid arrays
+- Flat packages
+  - QFN : Quad flat no-leads package.
+  - QFP : Quad flat package
+  - TQFP : Thin quad flat-pack
+  - TQFN : Thin quad flat, no-lead
+- Small outline packages
+- Ball grid array
