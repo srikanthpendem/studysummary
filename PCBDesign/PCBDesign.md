@@ -31,3 +31,9 @@
 - P : Pin pitch (distance between conductors to the PCB).
 - WB : Width of the package body only.
 - WL : Length from pin tip to pin tip on the opposite side.
+## Different Types of PCBs
+- Single Sided PCB
+- Double Sided PCB
+- Multi-layer PCB
+- Rigid PCB
+- Flexible PCB
