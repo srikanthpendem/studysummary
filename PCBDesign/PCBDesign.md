@@ -81,3 +81,7 @@
 ## Files
 - Gerber
 - NC Drill
+## Measurement
+- mm
+- inches
+- thou : 1/1000 inch : mils
