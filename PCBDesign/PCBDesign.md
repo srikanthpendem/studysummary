@@ -47,3 +47,10 @@
 - Keep Out Layer
 - Split Planes
 - Routing Layers
+## Surface Finish
+- HASL / Lead Free HASL
+- Immersion Tin
+- OSP / Entek
+- Gold – Hard Gold
+- Electroless Nickel Immersion Gold (ENIG)
+- Electroless Nickel Electroless Palladium Immersion Gold (ENEPIG)
