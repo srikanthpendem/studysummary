@@ -39,6 +39,7 @@
 - Flexible PCB
 ## PCB Layers
 - Dielectric Material.
+- Prepreg
 - Copper Material
 - Mechanical Layer
 - Overlay / Silkscreen Layers
@@ -46,7 +47,10 @@
 - Solder Paste Layers
 - Keep Out Layer
 - Split Planes
+- Backplane
 - Routing Layers
+- Carbon Mask
+- epoxy resin package
 ## Surface Finish
 - HASL / Lead Free HASL
 - Immersion Tin
@@ -54,3 +58,23 @@
 - Gold – Hard Gold
 - Electroless Nickel Immersion Gold (ENIG)
 - Electroless Nickel Electroless Palladium Immersion Gold (ENEPIG)
+## Paths
+- Annular Ring
+- Blind Via
+- Buried Via
+- Tented Via
+- Via
+- Cable
+- Plate
+- Countersink Hole
+- Mounting Hole
+- NPTH non-plated through hole
+- Pad
+- Pin or Lead
+- Plated-Through Hole
+- Press Fit Hole
+- Slot Hole
+## Routing
+- Interactive Routing
+- Differential Pair Routing
+- Auto Route
