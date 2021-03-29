@@ -78,3 +78,6 @@
 - Interactive Routing
 - Differential Pair Routing
 - Auto Route
+## Files
+- Gerber
+- NC Drill
