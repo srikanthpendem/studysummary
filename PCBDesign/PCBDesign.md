@@ -37,3 +37,13 @@
 - Multi-layer PCB
 - Rigid PCB
 - Flexible PCB
+## PCB Layers
+- Dielectric Material.
+- Copper Material
+- Mechanical Layer
+- Overlay / Silkscreen Layers
+- Solder Mask Layers
+- Solder Paste Layers
+- Keep Out Layer
+- Split Planes
+- Routing Layers
