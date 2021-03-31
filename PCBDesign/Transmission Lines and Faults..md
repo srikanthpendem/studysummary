@@ -44,4 +44,6 @@
 - Benefits
   - Low Latency.
   - High Bandwith x Low Internet Usage.
-  - Releability.
+  - Releability. <br>
+ **Machine learning** uses algorithms to parse data, learn from that data, and make informed decisions based on what it has learned.<br>
+ **Deep learning** structures algorithms in layers to create an "artificial neural network” that can learn and make intelligent decisions on its own<br>
