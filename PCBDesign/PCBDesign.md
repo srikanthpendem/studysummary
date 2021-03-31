@@ -58,22 +58,28 @@
 - Gold – Hard Gold
 - Electroless Nickel Immersion Gold (ENIG)
 - Electroless Nickel Electroless Palladium Immersion Gold (ENEPIG)
-## Paths
+## Paths & Holes.
 - Annular Ring
 - Blind Via
 - Buried Via
 - Tented Via
 - Via
+  - NPTH non-plated through hole
+  - Plated-Through Hole
+  - Stitching: Connecting two layer with Via.
 - Cable
 - Plate
 - Countersink Hole
 - Mounting Hole
-- NPTH non-plated through hole
 - Pad
+  - > 1.8 x diameter of the hole.
+  - Shapes :: Round : Passive components, Oval : ICs, Rectange: 1st pin of IC.
 - Pin or Lead
-- Plated-Through Hole
 - Press Fit Hole
 - Slot Hole
+- Polygon Pour or Copper Pour, Power and Ground Planes.
+- Clearance : Space b/w two conductors (components)
+- Creepage : distance of the path b/w  two conductors (components)
 ## Routing
 - Interactive Routing
 - Differential Pair Routing
@@ -85,3 +91,19 @@
 - mm
 - inches
 - thou : 1/1000 inch : mils
+- trace to trace space must be >8 mils. 
+- trace width must be >10 mils
+- lower these number, higher the cost.
+- Necking : Change trace space/width small to large or vice-versa
+- Copper weight: Ozs, usually 1 oz. higher the no. low resistance.
+## Layout Procedure.
+- Set your snap grid, visible grid, and default track/pad sizes.
+- Throw down all the components onto the board.
+- Divide and place your components into functional “building blocks” where possible.
+- Identify layout critical tracks on your circuit and route them first.
+- Place and route each building block separately, off the board.
+- Move completed building blocks into position on your main board.
+- Route the remaining signal and power connections between blocks.
+- Do a general “tidy up” of the board.
+- Do a Design Rule Check.
+- Get someone to check it
