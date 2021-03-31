@@ -18,6 +18,30 @@
 - Power loss.
 - Interfere radio/TV
 ### [Detection of corona] (https://www.quora.com/What-is-the-difference-between-IoT-and-IIoT):
-- Airborne Ultrasound Sensor.
-**Iot**: Smart devices target consumers.
-**IIot**: Smart devices target factories.
+- Airborne Ultrasound Sensor.   
+**Iot**: Smart devices target consumers.   
+- home watches, small data etc.
+**IIot**: Smart devices target factories.   
+- Big data, machine learning, precise sensors.
+### Computer Vision.
+- Vision of machine.
+- Image is filtered for detection.
+- Edge Detection.
+- Convolution.
+- Kernel Convolution.
+- Image Detection.
+- Image Processing.
+- Patches.
+- Prewitt operator
+- Image detection of Corona Discharge.
+- OpenCV - Open Source Computer Vision Library.
+- Scikit-image open-source library
+### Edge Computing.
+- storage and analysis of data nearer to the devices where it’s being gathered, instead of relying on a central location or data center which could be thousands of miles away.
+- Edge Devices > Edge Server > Cloud Server.
+- Edge Computing : Device <=> Edge Server <=> Cloud Server.
+- Cloud Computing : Device <=> Cloud Server.
+- Benefits
+  - Low Latency.
+  - High Bandwith x Low Internet Usage.
+  - Releability.
