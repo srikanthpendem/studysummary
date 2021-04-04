@@ -37,3 +37,4 @@ PCB Design.
 - Conflict with team lead.
 - he didnt like My worst coding style, 
 - argument exchange, learned to optimize code perfectly.
+#### Person you like.career dreamer.
