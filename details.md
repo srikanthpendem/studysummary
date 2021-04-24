@@ -12,4 +12,8 @@
 |**Coming to Canada** | 2018-08-24      |TORONTO          |
 | **Most Recent Entry** | 2019-06-05 | TORONTO |
 | **Recent Document Number** | U512727944 |
-| **Education**  | 2018 - 09 ~ 2020 - 08 | Lambton College at Cestar College of Business, Health and Technology | TORONTO | Canada |
+| **Education**  | 2018 - 09 ~<br> 2020 - 08 | Lambton College at Cestar College of Business, Health and Technology | TORONTO | Canada |
+```
+Applied and obtained Study Permit in August 2018; Applied and obtained Study Permit Extension in September 2020.
+Applied and obtained Work Permit in December 2020.
+```
