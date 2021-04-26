@@ -12,7 +12,10 @@
 |**Coming to Canada** | 2018-08-24      |TORONTO          |
 | **Most Recent Entry** | 2019-06-05 | TORONTO |2019-01-17 | MONTREAL |
 | **Education**  | 2018 - 09 ~<br> 2020 - 08 | Lambton College at Cestar College of Business, Health and Technology | TORONTO | Canada |
+
 ```
 Applied and obtained Study Permit in August 2018; Applied and obtained Study Permit Extension in September 2020.
 Applied and obtained Work Permit in December 2020.
+
+Entered Canada in August 2018 from India; Entered Canada in January 2019 from Peru; Entered Canada in June 2019 from Peru; 
 ```
