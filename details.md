@@ -10,7 +10,7 @@
 |PAN India| CPTPP7977R     | -           | 2023-12-15 |
 |**Address** | 4337      |Goldenrod Crescent          | Mississauga |  L5V  3C3|
 |**Coming to Canada** | 2018-08-24      |TORONTO          |
-| **Most Recent Entry** | 2019-06-05 | TORONTO |
+| **Most Recent Entry** | 2019-06-05 | TORONTO |2019-01-17 | MONTREAL |
 | **Recent Document Number** | U512727944 |
 | **Education**  | 2018 - 09 ~<br> 2020 - 08 | Lambton College at Cestar College of Business, Health and Technology | TORONTO | Canada |
 ```
