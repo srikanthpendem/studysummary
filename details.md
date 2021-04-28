@@ -11,9 +11,9 @@
 |**Address** | 4337      |Goldenrod Crescent          | Mississauga |  L5V  3C3|
 |**Coming to Canada** | 2018-08-24      |TORONTO          |
 | **Most Recent Entry** | 2019-06-05 | TORONTO |2019-01-17 | MONTREAL |
-| **Education**  | 2018-09~<br>2020-08 | Lambton College at Cestar College of Business, Health and Technology | TORONTO | Canada |
-| **B.TECH**  | 2014-08~<br>2017 - 05 | JNTU-H | HYDERABAD | INDIA |
-| **DIPLOMA**  | 2014-08 ~<br>2014-05 | CITD | HYDERABAD | INDIA |
+| **Education**  | 2018-09~<br>2020-08 | Lambton College at Cestar College of Business, Health and Technology | TORONTO | Canada | Embedded Systems |
+| **B.TECH**  | 2014-08~<br>2017 - 05 | JNTU-H | HYDERABAD | INDIA |ECE |
+| **DIPLOMA**  | 2014-08~<br>2014-05 | CITD | HYDERABAD | INDIA | ECE |
 
 ```
 Applied and obtained Study Permit in August 2018; Applied and obtained Study Permit Extension in September 2020.
