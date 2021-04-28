@@ -5,13 +5,15 @@
 | **Aadhar Card**       | 6554 7884 1953  | - | Indian |
 | **G1 License**       | P25117200960525 | -           |    2025-09-23 |
 | **Name**              | Srikanth Pendem | 1996-05-25 | Bhiwandi, Maharashtra |  Raju Pendem |   Aruna Pendem | 4379840525 / 6478711285 |
-| **Work Permit**       | UCI: 1114025192 | 2020-12-15  |  2023-12-15   | U512727944 |
+| **Work Permit**       | UCI: 1114025192 | 2020-12-15  |  2023-12-15   | DOC NO.: U512727944 |
 | **Social Insurance**  | 942-042-797     | -           | 2023-12-15 |
 |PAN India| CPTPP7977R     | -           | 2023-12-15 |
 |**Address** | 4337      |Goldenrod Crescent          | Mississauga |  L5V  3C3|
 |**Coming to Canada** | 2018-08-24      |TORONTO          |
 | **Most Recent Entry** | 2019-06-05 | TORONTO |2019-01-17 | MONTREAL |
-| **Education**  | 2018 - 09 ~<br> 2020 - 08 | Lambton College at Cestar College of Business, Health and Technology | TORONTO | Canada |
+| **Education**  | 2018-09~<br>2020-08 | Lambton College at Cestar College of Business, Health and Technology | TORONTO | Canada |
+| **B.TECH**  | 2014-08~<br>2017 - 05 | JNTU-H | HYDERABAD | INDIA |
+| **DIPLOMA**  | 2014-08 ~<br>2014-05 | CITD | HYDERABAD | INDIA |
 
 ```
 Applied and obtained Study Permit in August 2018; Applied and obtained Study Permit Extension in September 2020.
