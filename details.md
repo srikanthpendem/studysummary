@@ -5,8 +5,8 @@
 | **Aadhar Card**       | 6554 7884 1953  | - | Indian |
 | **G1 License**       | P25117200960525 | -           |    2025-09-23 |
 | **Name**              | Srikanth Pendem | 1996-05-25 | Bhiwandi, Maharashtra |  Raju Pendem |   Aruna Pendem | 4379840525 / 6478711285 |
-| **FatherName**        | Raju Pendem | 1965-07-01 | H.NO: 103, B BLOCK, MODI PARADISE HOMES, SURYA COLONY, HAYATNAGAR, RANGAREDD |  Married |  raju.pendem65@gmail.com | 
-| **MotherName**        | Aruna Pendem | 1972-09-27 | H.NO: 103, B BLOCK, MODI PARADISE HOMES, SURYA COLONY, HAYATNAGAR, RANGAREDD |  Married |  aruna.pendem72@gmail.com | 
+| **FatherName**        | Raju Pendem | 1965-07-01 | H.NO: 103, B BLOCK, MODI PARADISE HOMES, SURYA COLONY, HAYATNAGAR, RANGAREDD |  Married |  raju.pendem65@gmail.com | GANDEVI |
+| **MotherName**        | Aruna SANGEM | 1972-09-27 | H.NO: 103, B BLOCK, MODI PARADISE HOMES, SURYA COLONY, HAYATNAGAR, RANGAREDD |  Married |  aruna.pendem72@gmail.com | Mumbai |
 | **Brother**        | Omkar Pendem | 1988-10-25 | H.NO: 103, B BLOCK, MODI PARADISE HOMES, SURYA COLONY, HAYATNAGAR, RANGAREDD |  Married |  omkarraju89@gmail.com | 
 | **Sister**        | Gayatri Pendem | 1989-07-06 | H.NO: 103, B BLOCK, MODI PARADISE HOMES, SURYA COLONY, HAYATNAGAR, RANGAREDD |  Married |  gayatri.swaraj9@gmail.com | 
 | **Work Permit**       | UCI: 1114025192 | 2020-12-15  |  2023-12-15   | DOC NO.: U512727944 |
