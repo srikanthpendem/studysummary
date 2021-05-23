@@ -1,0 +1,11 @@
+### PIC Dig I/O.
+- TRIS A, B, C, D = To enable digital port of PICs. (RA0,1,2 etc., will be set to I/0)
+  - TRISA = 0b00000010 = RA1 will be set to Dig I/0.
+- Check the datasheet for what TRISx should be used for enabling different RAx or RBx registers.
+- ANSEL, ANSELH = To enable analog I/O/
+  - ANSEL = 0b00001001 = will enable A8 Pin.
+- Check the datasheet if you need to use ANSEL or ANSELH for enabling different Analog Pins.
+- PORT A,B,C,D = To write data into the digital pins.
+  - PORTA = 0b00000010 = Will write RA1 with 1 bit.
+- Some PICs need to be specifed disable Analog or Digital Pins.
+- Some PICs have different way of enabling the registers. study before you work with the PIC.
