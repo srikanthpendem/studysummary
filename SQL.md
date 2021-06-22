@@ -1,5 +1,17 @@
 ### SQL Commands.
-- SELECT coloumn FROM table : Selects the Coloums in a table.
-  - SELECT COL1 FROM table  : Selects Single Coloumn
-  - SELECT COL1 , COL2. FROM table : Selects Multiple Coloumn
-  - SELECT *   FROM table   : Selects All Coloumns
+- **SELECT col1 FROM table**  : Selects Single Coloumn from table.
+- **SELECT col1 , col2 FROM table** : Selects Multiple Coloumn from table.
+- **SELECT *   FROM table**   : Selects All Coloumns from table
+- **SELECT DISTINCT col1 FROM table** : Selects non-repetitive values in the coloum from the table.
+- **SELECT * FROM table WHERE col1=5** : Selects all the values of 5 from coloumn.
+- **SELECT * FROM table ORDER BY col {ASC|DESC}** Selects all the queries from selected coloumn & orders ascending or descending.
+- **INSERT INTO table {col1,col2} values(x1,x2)** : Inserts x1,x2 values in all or given coloumns into the table.
+- **SELECT * FROM table WHERE col1 IS NULL, IS NOT NULL** : checks if col1 is empty or non-empty.
+- **UPDATE table SET col1=val, col2 = val, {WHERE col3=x}** : updates the col1 with val, col2 with val wherever col3 has x.(updates entire cols if no where.)
+- **DELETE table {where col3=x}** : deletes the col3 with values of x. (deletes table entire if no where.)
+- **SELECT TOP {3,50%} FROM table {where col2=y}**  : selects top 3 or 50% rows from table wherever col2 has y.
+- **SELECT col FROM table LIMIT {3,50%} OFFSET {2}** : selects specified rows.
+- **SELECT MIN x MAX(col) FROM table {where{})**  : Selects Min or Max value of column.
+- **SELECT count,avg,sum(col) FROM table {where{})**  : counts, averages, sums values in a coloumn.
+- **SELECT * FROM table where col1 LIKE x NOT Like x**  : selects value from coloumn that matches with x. x= %a,a%,%a%,a__%,%__r,a%o.
+- **SELECT * FROM table WHERE col IN(x1,x2)** : selects col where it has only x1,x2.
