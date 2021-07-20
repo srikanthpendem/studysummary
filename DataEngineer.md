@@ -16,5 +16,5 @@ I have 3+ years of experience in Data Engineering & ETL.
 - Expecting Salary: 80K+
 - When starting: within 2 weeks.
 - Experience in: Pyhton, SAS, SAP, AZURE, SPARK, SQL, ETL.
-- Next Role: 
-- 
+- Next Role: Looking for Intermediate Data Engineer Position
+- Next 5 yrs: Data Sciense & leaarning more onto AI & machine learning.
